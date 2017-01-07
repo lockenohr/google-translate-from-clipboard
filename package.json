@@ -9,7 +9,11 @@
   "keywords": [
     "google",
     "translate"
-  ],
+  ],"repository" :
+  {
+    "type" : "git",
+    "url" : "https://github.com/borovik96/google-translate-from-clipboard"
+  },
   "author": "Borovik Vladimir",
   "license": "ISC",
   "bin": {
