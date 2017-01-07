@@ -15,7 +15,7 @@
   "dependencies": {
     "babel-eslint": "^7.1.1",
     "clipboardy": "^0.1.2",
-    "google-translate": "^1.0.9",
+    "google-translate-api": "^2.2.2",
     "node-notifier": "^4.6.1"
   },
   "devDependencies": {
