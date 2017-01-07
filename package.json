@@ -12,6 +12,9 @@
   ],
   "author": "Borovik Vladimir",
   "license": "ISC",
+  "bin": {
+    "google-translate-from-clipboard": "./index.js"
+  },
   "dependencies": {
     "babel-eslint": "^7.1.1",
     "clipboardy": "^0.1.2",

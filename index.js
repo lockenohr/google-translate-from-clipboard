@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const clipboard = require('clipboardy');
 const gt = require('google-translate-api');
 const notifier = require('node-notifier');
