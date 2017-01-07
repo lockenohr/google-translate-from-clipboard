@@ -1,0 +1,28 @@
+{
+  "name": "google-translate-from-clipboard",
+  "version": "1.0.0",
+  "description": "Translate text from clipboard and get translation with system notification",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "google",
+    "translate"
+  ],
+  "author": "Borovik Vladimir",
+  "license": "ISC",
+  "dependencies": {
+    "babel-eslint": "^7.1.1",
+    "clipboardy": "^0.1.2",
+    "google-translate": "^1.0.9",
+    "node-notifier": "^4.6.1"
+  },
+  "devDependencies": {
+    "eslint": "^3.13.0",
+    "eslint-config-airbnb": "^13.0.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^2.2.3",
+    "eslint-plugin-react": "^6.8.0"
+  }
+}
