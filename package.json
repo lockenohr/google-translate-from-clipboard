@@ -1,5 +1,5 @@
 {
-  "name": "google-translate-from-clipboard",
+  "name": "gtranslate",
   "version": "1.0.0",
   "description": "Translate text from clipboard and get translation with system notification",
   "main": "index.js",
@@ -12,12 +12,12 @@
   ],"repository" :
   {
     "type" : "git",
-    "url" : "https://github.com/borovik96/google-translate-from-clipboard"
+    "url" : "https://github.com/lockenohr/google-translate-from-clipboard"
   },
-  "author": "Borovik Vladimir",
+  "author": "Locke Nohr",
   "license": "ISC",
   "bin": {
-    "google-translate-from-clipboard": "./index.js"
+    "gtranslate": "./index.js"
   },
   "dependencies": {
     "babel-eslint": "^7.1.1",
