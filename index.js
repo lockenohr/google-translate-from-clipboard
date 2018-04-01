@@ -20,7 +20,7 @@ let originalText = '';
 clipboard.read()
 .then((data) => {
   originalText = data;
-  return gt(data, { to: 'ru' });
+  return gt(data, { to: 'en' });
 })
 .then((res) => {
   notifier.notify({
